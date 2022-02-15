@@ -1,0 +1,74 @@
+<!-- NOTICE! : Only place dimension related code here-->
+<resources>
+    <!-- Generic with ratio -->
+
+    <!-- PADDING -->
+    <dimen name = "padding_default">8dp</dimen>
+    <dimen name = "padding_small">4dp</dimen>
+    <dimen name = "padding_large">12dp</dimen>
+
+    <!--MARGIN-->
+    <dimen name = "margin_default">4dp</dimen>
+    <dimen name = "margin_small">4dp</dimen>
+    <dimen name = "margin_medium">8dp</dimen>
+    <dimen name = "margin_medium_2">16dp</dimen>
+    <dimen name = "margin_medium_3">20dp</dimen>
+    <dimen name = "margin_large">24dp</dimen>
+    <dimen name = "margin_xlarge">32dp</dimen>
+    <dimen name = "margin_xxlarge">48dp</dimen>
+
+    <dimen name = "margin_card_medium">6dp</dimen>
+    <dimen name = "margin_card_medium_2">12dp</dimen>
+
+    <dimen name = "margin_small_n">-4dp</dimen>
+    <dimen name = "margin_card_medium_n">-6dp</dimen>
+    <dimen name = "margin_medium_n">-8dp</dimen>
+    <dimen name = "margin_card_medium_2_n">-12dp</dimen>
+    <dimen name = "margin_medium_2_n">-16dp</dimen>
+    <dimen name = "margin_medium_3_n">-18dp</dimen>
+    <dimen name = "margin_large_n">-24dp</dimen>
+    <dimen name = "margin_xlarge_n">-32dp</dimen>
+
+    <dimen name = "text_smaller">10sp</dimen>
+    <dimen name = "text_small">12sp</dimen>
+    <dimen name = "text_small_regular">13sp</dimen>
+    <dimen name = "text_regular">14sp</dimen>
+    <dimen name = "header_text">18sp</dimen>
+    <dimen name = "text_regular_2x">16sp</dimen>
+    <dimen name = "text_regular_3x">20sp</dimen>
+    <dimen name = "text_heading_1x">24sp</dimen>
+    <dimen name = "text_heading_2x">32sp</dimen>
+    <dimen name = "text_big">40sp</dimen>
+    <dimen name = "text_big_2x">60sp</dimen>
+    <dimen name = "text_big_3x">80sp</dimen>
+    <dimen name = "healthcare_image_height">220dp</dimen>
+    <dimen name = "author_image_size">40dp</dimen>
+    <dimen name = "poster_height">360dp</dimen>
+
+    <!-- App specific values -->
+    <dimen name = "nav_header_height">180dp</dimen>
+    <dimen name = "activity_horizontal_margin">16dp</dimen>
+    <dimen name = "activity_vertical_margin">16dp</dimen>
+    <dimen name = "nav_header_vertical_spacing">8dp</dimen>
+    <dimen name = "fab_margin">16dp</dimen>
+    <dimen name = "bottom_float">60dp</dimen>
+    <dimen name = "customer_menu_size">30dp</dimen>
+
+    <dimen name = "text_size_medium">16sp</dimen>
+    <dimen name = "text_size_small">14sp</dimen>
+
+    <dimen name = "popup_width">300</dimen>
+    <dimen name = "popup_height">300</dimen>
+    <!--
+    Because the window insets on round devices are larger than 15dp, this padding only applies
+    to square screens.
+    -->
+    <dimen name = "box_inset_layout_padding">0dp</dimen>
+
+    <!--
+    This padding applies to both square and round screens. The total padding between the buttons
+    and the window insets is box_inset_layout_padding (above variable) on square screens and
+    inner_frame_layout_padding (below variable) on round screens.
+    -->
+    <dimen name = "inner_frame_layout_padding">5dp</dimen>
+</resources>
